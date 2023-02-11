@@ -32,6 +32,6 @@
         
 
 #### 🖼️ 미디어
-<img src="https://github.com/GNU-AIS/profile/blob/main/1.jpg"></img>  
-<img src="https://github.com/GNU-AIS/profile/blob/main/2.jpg"></img>  
-<img src="https://github.com/GNU-AIS/profile/blob/main/3.jpg"></img>  
+<img src="https://github.com/GNU-AIS/.github/blob/main/1.jpg"></img>  
+<img src="https://github.com/GNU-AIS/.github/blob/main/2.jpg"></img>  
+<img src="https://github.com/GNU-AIS/.github/blob/main/3.jpg"></img>  
