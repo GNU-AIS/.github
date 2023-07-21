@@ -28,4 +28,4 @@
         
 
 #### 🖼️ 미디어
-
+    <img src="https://github.com/GNU-AIS/.github/blob/main/3.jpg"></img>
